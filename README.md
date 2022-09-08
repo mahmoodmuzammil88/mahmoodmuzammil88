@@ -3,7 +3,7 @@
 
 </br>
 </br>
-  - 🔭 I’m currently a fellow at <a href="https://codeforindia.com/">CodeforIndia</a> - Class of CS 2021 </br>
+  - 🔭 I’m currently a fellow at <a href="https://codeforindia.com/">CodeforIndia</a> - Class of A22 </br>
 - 🌱 I’m currently learning <b>React</b> </br>
 - 🤩 I'm super passionate about Tech and love to learn new things everyday! </br>
 - 📫 How to reach me: <b>@muzammil9676@gmail.com</b> </br>
