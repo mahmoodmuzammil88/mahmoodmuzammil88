@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mahmood Ali Muzammil</h1>
-<h3 align="center">A passionate upcoming web developer from India</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Mahmood </h1>
+<h3 align="center">A passionate upcomming Full Stack Web Developer from <img src="https://icons.iconarchive.com/icons/wikipedia/flags/64/IN-India-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
+</br>
+</br>
+  - 🔭 I’m currently a fellow at <a href="https://codeforindia.com/">CodeforIndia</a> - Class of CS 2021 </br>
+- 🌱 I’m currently learning <b>React</b> </br>
+- 🤩 I'm super passionate about Tech and love to learn new things everyday! </br>
+- 📫 How to reach me: <b>@muzammil9676@gmail.com</b> </br>
+- ✨ Happy Coding!
+  
+</br>
+</br>
 
-<p align="left">I am Md Mahmood Ali</a> a student with an undergraduate in <strong>Computer Science</strong> from <strong>Lords Institute of Engineering and Technology</strong>Hyderabad
-I'm currently learning MERN stack and passionated for web designing .My background as a Student, along with my education in Computer Science,I have allowed me to attain a strong foundation of technical skills. In addition to my Web Development skills, I also possess a great eye for design, and this is what I believe separates me from the rest of the competition.</p>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-mahmood-ali-muzammil-467947220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-mahmood-467947220" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mahmood_ali24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsMahmood" height="30" width="40" /></a>
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/mohammed-mahmood-ali-muzammil-467947220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-mahmood-467947220" height="30" width="40"/></a>&nbsp;
+<a href="https://twitter.com/mdmahmood88"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.instagram.com/mahmood_ali24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsMahmood" height="30" width="40" /></a>&nbsp;
+<a href="https://medium.com/@mahmood9676"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="mailto:muzammil9676@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
