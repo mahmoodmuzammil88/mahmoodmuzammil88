@@ -1,25 +1,16 @@
-$ neofetch
-                   .~vVeZNgQBBBQQg9Ze1v~.
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Abhinav Krishna P.S
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 21 years
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Javascript, Python, C++, 2 others...
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: MacOS
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/abhinavkrishna
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
-a@@@@@@@@@@2                                    v@@@@@@@@@@;
-#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
-@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: coming soon....
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: 4BH1NAV_#2361
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: abhinav2525
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Twitter: @4bh1nav_
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`
-              "Lf8@@@@v              q@@@#Qa?:
-                  -!v|`              _?v!`
+Mohammed MAhmood Ali Muzammil
+ -------------------
+ Uptime: 18 years
+ Code Plugins: Javascript.
+ OS: Linux
+ Shell: Bash
+ Editor: VSCode
+ Home: /home/mahmood_ali24
+ 
+ contact information
+ -------------------
+ Website: coming soon....
+ Discord: Bumblebee#1081
+ Github: mahmoodmuzammil88
+ LinkedIn: Mohammed Mahmood Ali
+ Twitter: mdmahmood88
