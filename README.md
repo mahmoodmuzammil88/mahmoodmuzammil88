@@ -7,7 +7,7 @@ Mohammed MAhmood Ali Muzammil
  Editor: VSCode<br>
  Home: /home/mahmood_ali24<br>
  
- contact information<br>
+ Contact information<br>
  -------------------<br>
  Website: coming soon....<br>
  Discord: Bumblebee#1081<br>
