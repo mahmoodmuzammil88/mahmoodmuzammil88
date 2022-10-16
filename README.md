@@ -1,17 +1,1 @@
-Mohammed MAhmood Ali Muzammil<br>
--------------------<br>
-Uptime: 18 years<br>
-Code Plugins: Javascript.<br>
-OS: Linux<br>
-Shell: Bash<br>
-Editor: VSCode<br>
-Home: /home/mahmood_ali24<br>
-
-
-contact information<br>
--------------------<br>
-Website: coming soon....<br>
-Discord: Bumblebee#1081<br>
-Github: mahmoodmuzammil88<br>
-LinkedIn: Mohammed Mahmood Ali<br>
-Twitter: mdmahmood88<br>
+![github](https://user-images.githubusercontent.com/91800329/196031372-db21529c-8875-4f52-a717-98e465f5ca84.png)
