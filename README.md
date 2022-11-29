@@ -1,4 +1,4 @@
-# Hi <𝚍𝚎𝚟𝚜/>, I'm Mahmood 
+# Hi <𝚍𝚎𝚟elopers/>, I'm Mahmood 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
