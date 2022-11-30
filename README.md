@@ -26,14 +26,13 @@
 ### ✨Programming Languages and Tools....
 
 <p align="center">
-		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-<!-- 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/> -->
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 <!-- 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/github.png"/> -->
   	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html.png"/>
-	  	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/>
   	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
-			<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/git.png"/>
-		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/git.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
   	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/figma.png"/>
 	  	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
@@ -41,7 +40,7 @@
 
 ### ✨Profile views counter....
 on the way
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/{mahmoodmuzammil88}/count.svg)
 
 
 ----
