@@ -39,7 +39,6 @@
 </p>
 
 ### ✨Profile views counter....
-on the way
 ![Visitor Count](https://profile-counter.glitch.me/{mahmoodmuzammil88}/count.svg)
 
 
