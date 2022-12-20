@@ -27,12 +27,12 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 	  	<img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
 	<img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
 		<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 	  	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
   	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
+		<img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/git.png"/>
 	  	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/npm.png"/>
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/figma.png"/>
