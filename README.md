@@ -21,7 +21,7 @@
 
 ### ✨Checkout my BLOGS....
 <a href="https://medium.com/@mahmood9676/best-known-javascript-array-method-7effe7d303c1">Best-Known Javascript Array Method</a><br />
-<a href="https://medium.com/@mahmood9676/html-why-its-a-must-use-6a19ffd12c36">HTML Page Structure & Semantics</a><br />
+<a href="https://medium.com/@mahmood9676/html-why-its-a-must-use-6a19ffd12c36">HTML Page Structures & Semantics</a><br />
 <a href="https://medium.com/@mahmood9676/5-basic-css-selectors-you-should-know-de14e1faedd0">5 Basic CSS Selectors You Should Know</a><br />
 ### ✨Programming Languages and Tools....
 
